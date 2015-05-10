@@ -177,7 +177,8 @@
 	#header
 	{
 		position: relative;
-		background: #d64760 url('images/overlay.png');
+	/*	background: #abbd83 url('images/overlay.png');  */
+	/*	background-image: url('images/bg1.jpg');  */
 		color: #fff;
 		cursor: default;
 	}
